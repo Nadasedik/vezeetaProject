@@ -7,4 +7,4 @@ ui/ux for vezeeta home page
 - bootstrap
 - font-awesome
 
-#this is responsive pag
+#this is responsive page
